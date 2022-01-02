@@ -1,8 +1,6 @@
 clientSecret: some-client-secret
 authServerUserInfoEndpoint: https://foo.us.auth0.com/userinfo
 apiPrefix: /api
-ddbAccessKeyId: foo
-DdbSecretAccessKey: bar
 ddbUserAccessPolicyTableName: baz
 ddbAccessPolicyTableName: buz
 awsRegion: us-east-1
